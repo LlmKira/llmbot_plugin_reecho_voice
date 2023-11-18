@@ -27,11 +27,11 @@ ID，例如 `9ede7186-f24b-4018-a907-c3927c5e596a`。
 默认参数如下
 
 ```python
-voice_id = "e91ee8b1-11ac-4e5e-b381-5978e184f055"
+voice_id = "4a632551-65d5-427e-b617-b2696c34587d"
 model = "reecho-neural-voice-001"
 ```
 
-也就是 https://dash.reecho.ai/voice/e91ee8b1-11ac-4e5e-b381-5978e184f055
+也就是晓蕾 https://dash.reecho.ai/voice/4a632551-65d5-427e-b617-b2696c34587d
 
 ## 📝 Hook
 

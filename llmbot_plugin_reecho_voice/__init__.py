@@ -70,7 +70,7 @@ async def generate_speech(text: str, *,
     if not api_key:
         raise LookupError("env `REECHO_KEY` not found")
     if voice_id is None:
-        voice_id = "e91ee8b1-11ac-4e5e-b381-5978e184f055"
+        voice_id = "4a632551-65d5-427e-b617-b2696c34587d"
     if model is None:
         model = "reecho-neural-voice-001"
     chinese = re.findall('[\u3002\uff1b\uff0c\uff1a\u201c\u201d\uff08\uff09\u3001\uff1f\u300a\u300b\u4e00-\u9fa5]',
