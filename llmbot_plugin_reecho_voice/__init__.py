@@ -46,7 +46,7 @@ class SpeakChinese(BaseModel):
     @field_validator("short_text")
     def delay_validator(cls, v):
         if len(v) > 80:
-            raise ValueError("太多了")
+            return v[:100]
         return v
 
 
