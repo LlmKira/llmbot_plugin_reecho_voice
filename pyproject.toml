@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "llmbot_plugin_reecho_voice"
-version = "0.0.2"
+version = "0.0.3"
 description = "Generate Voice From reecho.ai Api In OpenAiBot."
 authors = ["LlmKira <me@dianas.cyou>"]
 license = "MIT"
